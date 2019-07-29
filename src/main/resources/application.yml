@@ -2,6 +2,6 @@ spring:
   jpa:
     database-platform: org.hibernate.dialect.MySQL57InnoDBDialect
   datasource:
-    url: jdbc:mysql://localhost:3306/test?serverTimezone=UTC&nullCatalogMeansCurrent=true
+    url: jdbc:mysql://localhost:3306/activiti?serverTimezone=UTC&nullCatalogMeansCurrent=true
     username: root
     password: purpose
